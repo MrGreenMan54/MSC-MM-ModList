@@ -1,0 +1,4 @@
+Atomnyje 24-hour digital clock
+Wampa842
+1.0.0
+24-hour digital clock with alarm, selectable display color, and infinite battery life.
