@@ -1,0 +1,4 @@
+Railroad crossing
+Wampa842
+1.1.1
+This mod adds new railway signs at the game's three level crossings. Lights switch to red and a warning bell is activated when the train is 250 meters from a crossing, and barriers are closed a few seconds after that, until the train has passed.
