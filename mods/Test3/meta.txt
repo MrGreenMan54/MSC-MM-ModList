@@ -1,5 +1,0 @@
-Name3
-Author3
-Version3
-Descrition3
-True3
