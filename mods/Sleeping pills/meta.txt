@@ -1,0 +1,4 @@
+Sleeping pills
+Wampa842
+1.0.4
+Adds a sleeping pills. A pill will increase your fatigue by one third, and an invisible "overdose" meter, which decreases as time passes, by the same amount. If you overdose, you'll get the drunk effect and high stress you won't recover from, which will lead to a cardiac arrest.
