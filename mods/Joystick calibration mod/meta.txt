@@ -1,0 +1,4 @@
+Joystick calibration mod
+Dezgeg
+1.0
+This mod implements in-game joystick calibration for My Summer Car. This should hopefully fix various kinds of problems with steering wheels, e.g. the infamous '50% deadzone in all pedals' problem.
