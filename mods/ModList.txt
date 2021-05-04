@@ -15,3 +15,4 @@ Ventti bet simplification
 Wear Inspector (reboot)
 Sleeping pills
 Bottle Recycling
+Joystick calibration mod
