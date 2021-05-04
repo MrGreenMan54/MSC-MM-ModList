@@ -1,0 +1,4 @@
+Rack hook
+Kubix
+0.9b
+This adds hook to rack of Jonnez where you can hang shopping bag.
