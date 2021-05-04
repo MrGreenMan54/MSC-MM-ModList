@@ -1,0 +1,4 @@
+KruFPS
+Krutonium
+4.0
+This mod optimizes how the game loads and unloads objects in the game based on distance from them, instead of letting them always run.
