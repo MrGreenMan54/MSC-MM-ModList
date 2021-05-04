@@ -1,0 +1,4 @@
+Honda NSR50
+gosuke
+1.4.3
+This mod add Honda NSR50 as new vehicle.
