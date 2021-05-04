@@ -1,0 +1,4 @@
+Wear Inspector (reboot)
+Oni24
+1.0.1
+Now just look at the part and appropriate text will appear, stating the condition a part is in. Part needs to be uninstalled.
